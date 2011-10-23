@@ -1,4 +1,5 @@
 -include device/semc/mogami-common/BoardConfigCommon.mk
+-include vendor/semc/coconut/BoardConfigVendor.mk
 
 TARGET_SPECIFIC_HEADER_PATH := device/semc/coconut/include
 
