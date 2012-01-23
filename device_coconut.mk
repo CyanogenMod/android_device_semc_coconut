@@ -7,9 +7,9 @@ $(call inherit-product-if-exists, vendor/semc/coconut/coconut-vendor.mk)
 
 
 # Discard inherited values and use our own instead.
-PRODUCT_NAME := Xperia Live
+PRODUCT_NAME := coconut
 PRODUCT_DEVICE := coconut
-PRODUCT_MODEL := WT19i
+PRODUCT_MODEL := coconut
 
 -include device/semc/mogami-common/mogami.mk
 
