@@ -1,0 +1,8 @@
+Change-Id: Ic2fcff98b5927c665c4de764f564198c07687d14
+Code-Review+2: Steve Kondik <shade@chemlab.org>
+Verified+1: Steve Kondik <shade@chemlab.org>
+Submitted-by: Steve Kondik <shade@chemlab.org>
+Submitted-at: Fri, 23 Mar 2012 09:46:01 +0300
+Reviewed-on: http://review.cyanogenmod.com/13714
+Project: CyanogenMod/android_device_semc_coconut
+Branch: refs/heads/ics
